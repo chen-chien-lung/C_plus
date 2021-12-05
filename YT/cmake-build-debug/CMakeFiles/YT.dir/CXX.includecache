@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joechen/Desktop/helloworld/YT/YT.cpp
+iostream
+-
+
+/Users/joechen/Desktop/helloworld/YT/void_pointer.cpp
+iostream
+-
+

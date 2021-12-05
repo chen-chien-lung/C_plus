@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joechen/Desktop/helloworld/pluralsight/Transaction.cpp
+Transaction.h
+/Users/joechen/Desktop/helloworld/pluralsight/Transaction.h
+
+/Users/joechen/Desktop/helloworld/pluralsight/Transaction.h
+string
+-
+
